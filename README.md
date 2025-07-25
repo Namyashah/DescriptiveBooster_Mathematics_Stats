@@ -1,6 +1,10 @@
 ## 📸 Sample Output & Visualization
 ![Plots Screenshot](images/QuickPeak.png)
 
+Box Plot Of Income Household By Education Level
+![`Plots Scrennshots`](images/boxplot.png)
+
+
 # 🏡📈 Income Distribution & Household Analysis
 
 Welcome to this insightful data analysis project that dives into the socio-economic patterns of households! Using Python, Pandas, Seaborn, and Matplotlib, we performed a detailed examination of household income distribution, education levels, urban-rural demographics, and more.
